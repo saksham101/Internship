@@ -1,3 +1,4 @@
+// index.js file 
 var rect = require('./temp');
     function solveRect(l,b) 
     {
